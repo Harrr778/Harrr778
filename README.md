@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Har Aslanyan</h1>
-<h3 align="center">DevOps Engineer | Python & Automation Lover | Minimalism Fan</h3>
+<h3 align="center">DevOps Engineer | Python & Automation Lover</h3>
 
 ---
 
