@@ -14,6 +14,15 @@
 ---
 
 ### 🧠 About Me
+- Har Aslanyan
+  Aspiring DevOps Engineer | Technology Enthusiast 🚀
+
+  Hi, I’m Har Aslanyan, an aspiring DevOps engineer. I am actively learning tools and technologies like Docker, Jenkins, Git, and
+  others to create efficient solutions for process automation and infrastructure 
+  management. My goal is to develop skills in system automation and build reliable, scalable systems. 🔧⚙️
+  
+  Professional skills: Docker, Jenkins, Git, Python, Go, Linux, DevOps. 💻
+
 - 🔧 I build and automate CI/CD pipelines
 - ☁️ Obsessed with clean infrastructure & efficient workflows
 - ⚙️ Every day is a Linux terminal day
