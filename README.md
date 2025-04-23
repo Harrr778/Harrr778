@@ -25,14 +25,14 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harrr778&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harrr778&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/har-aslanyan-7581a9362/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Harrr778)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/har.____47)
 
 ---
 
